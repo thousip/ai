@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="doraemon_background">#081126</color>
+    <color name="doraemon_cyan">#00DCFF</color>
+    <color name="doraemon_text">#F0F7FF</color>
+</resources>
